@@ -1,6 +1,6 @@
 # Got It
 
-![](https://lever-client-logos.s3.amazonaws.com/3aac7dc1-bb2c-4f7e-b524-2566d4109d2b-1496907076661.png)
+![](https://res.cloudinary.com/nguyen-thanhson/image/upload/v1574577601/3aac7dc1-bb2c-4f7e-b524-2566d4109d2b-1496907076661_bfptat.png)
 
 This repo contains coding solutions for practice interview questions, provided
 by Got It, Inc. Got It is a startup based in Silicon Valley, founded by Hung Tran.
